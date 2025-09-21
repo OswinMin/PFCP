@@ -1,0 +1,38 @@
+\begin{tabular}{ccccccc}
+\toprule
+ & GLCP & PFCP & FedCP & FedCP-QQ & CPlab & CPhet \\
+\midrule
+BIO & $0.0315$ & $\textbf{0.0199}$ & $0.0941$ & $0.0753$ & $0.0822$ & $0.0844$ \\
+BIKE & $0.0234$ & $\textbf{0.0193}$ & $0.0678$ & $0.0647$ & $0.0681$ & $0.0690$ \\
+CRIME & $0.0387$ & $\textbf{0.0268}$ & $0.0426$ & $0.0495$ & $0.0439$ & $0.0429$ \\
+STAR & $0.0392$ & $\textbf{0.0244}$ & $0.0502$ & $0.0507$ & $0.0498$ & $0.0493$ \\
+CONCRETE & $0.0366$ & $\textbf{0.0238}$ & $0.0582$ & $0.0675$ & $0.0600$ & $0.0580$ \\
+DERMA & $0.0300$ & $\textbf{0.0230}$ & $0.0884$ & $0.0976$ & $0.0616$ & $0.0659$ \\
+\bottomrule
+\end{tabular}
+##################################################
+\begin{tabular}{ccccccc}
+\toprule
+ & GLCP & PFCP & FedCP & FedCP-QQ & CPlab & CPhet \\
+\midrule
+BIO & $0.902$ & $0.903$ & $\textbf{0.993}\times$ & $\textbf{0.970}\times$ & $\textbf{0.978}\times$ & $\textbf{0.981}\times$ \\
+BIKE & $0.900$ & $0.900$ & $\textbf{0.885}\times$ & $0.890$ & $\textbf{0.885}\times$ & $\textbf{0.883}\times$ \\
+CRIME & $0.900$ & $0.896$ & $\textbf{0.866}\times$ & $\textbf{0.852}\times$ & $\textbf{0.862}\times$ & $\textbf{0.864}\times$ \\
+STAR & $0.898$ & $0.899$ & $0.897$ & $0.892$ & $0.897$ & $0.898$ \\
+CONCRETE & $0.903$ & $0.905$ & $\textbf{0.947}\times$ & $\textbf{0.963}\times$ & $\textbf{0.949}\times$ & $\textbf{0.946}\times$ \\
+DERMA & $0.895$ & $0.899$ & $\textbf{0.824}\times$ & $\textbf{0.809}\times$ & $\textbf{0.880}\times$ & $\textbf{0.868}\times$ \\
+\bottomrule
+\end{tabular}
+##################################################
+\begin{tabular}{ccccccc}
+\toprule
+ & GLCP & PFCP & FedCP & FedCP-QQ & CPlab & CPhet \\
+\midrule
+BIO & $0.5144$ & $\textbf{0.5032}$ & $0.9991$ & $0.7087$ & $0.8054$ & $0.8271$ \\
+BIKE & $4.0968$ & $\textbf{3.9645}$ & $4.0044$ & $4.0910$ & $3.9959$ & $3.9671$ \\
+CRIME & $5.1830$ & $4.4961$ & $3.9176$ & $\textbf{3.7724}$ & $3.8802$ & $3.8855$ \\
+STAR & $48.4987$ & $43.2931$ & $42.7556$ & $\textbf{42.1185}$ & $42.8081$ & $43.0090$ \\
+CONCRETE & $34.4859$ & $\textbf{28.3797}$ & $34.7115$ & $38.9746$ & $35.1545$ & $34.6905$ \\
+DERMA & $2.4926$ & $2.4430$ & $1.2490$ & $\textbf{1.1943}$ & $1.5649$ & $1.4810$ \\
+\bottomrule
+\end{tabular}
